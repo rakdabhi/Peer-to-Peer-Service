@@ -1,0 +1,30 @@
+##############################################################################
+# While generating a random port number, make sure you use a seed as shown   #
+# for each client. 								#
+# Use the random package from Python						#
+##############################################################################
+
+import random  
+
+# Client 1:
+random.seed(1)
+random.randint(9000, 9999)
+
+# Client 2:
+random.seed(2)
+random.randint(9000, 9999)
+
+# Client 3:
+random.seed(3)
+random.randint(9000, 9999)
+
+# Client 4:
+random.seed(4)
+random.randint(9000, 9999)
+
+...
+
+
+# Client 20:
+random.seed(20)
+random.randint(9000, 9999)

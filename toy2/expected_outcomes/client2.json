@@ -1,0 +1,18 @@
+[
+    {
+        "time": 0,
+        "text": "Client ID 2 registered"
+    },
+    {
+        "time": 2,
+        "text": "Obtained 1a from 127.0.0.1#9137"
+    },
+    {
+        "time": 4,
+        "text": "Obtained 3a from 127.0.0.1#9243"
+    },
+    {
+        "time": 6,
+        "text": "Obtained 4a from 127.0.0.1#9243"
+    }
+]

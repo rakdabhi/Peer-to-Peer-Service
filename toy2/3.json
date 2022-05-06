@@ -1,0 +1,20 @@
+{
+    "client_id": "3",
+    "content": ["3a",
+                "3b"
+            ],
+    "actions": 
+            [{"time": 1, 
+                "code": "Q",
+                "content_id": "4a"
+            },
+            {"time": 5, 
+                "code": "P",
+                "content_id": "4a"
+            },
+            {"time": 7, 
+                "code": "Q",
+                "content_id": "4b"
+            }  
+        ]
+}
